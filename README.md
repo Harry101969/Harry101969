@@ -17,10 +17,10 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harry101969&theme=midnight_purple&utcOffset=8" />
   </a>
 </div>
+<br/>
 
 
-
-<img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="center" height="150" width="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <br/>
 
