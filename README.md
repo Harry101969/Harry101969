@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harsh Agarwal and I'm a full stack developer, from India</h2>
+<h2 align="center">Hi 👋! My name is Harsh Agarwal and I'm a full stack developer, from India</h2>
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
