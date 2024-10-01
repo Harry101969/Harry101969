@@ -2,10 +2,10 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harry101969&theme=midnight_purple)
-            ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harry101969&theme=midnight_purple)
-            ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harry101969&theme=midnight_purple)
-            ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harry101969&theme=midnight_purple)
-            ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harry101969&theme=midnight_purple&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harry101969&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harry101969&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harry101969&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harry101969&theme=midnight_purple&utcOffset=8)
 
 
 - 🔭 I’m currently working on [Paytm Using Turborepo](https://github.com/Harry101969/Paytm-Turborepo)
