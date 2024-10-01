@@ -1,10 +1,25 @@
 <h2 align="left">Hi 👋! My name is Harsh Agarwal and I'm a full stack developer, from India</h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harry101969&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harry101969&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harry101969&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harry101969&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harry101969&theme=midnight_purple&utcOffset=8)
+(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harry101969&theme=midnight_purple)
+(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harry101969&theme=midnight_purple)
+(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harry101969&theme=midnight_purple)
+(http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harry101969&theme=midnight_purple)
+(http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harry101969&theme=midnight_purple&utcOffset=8)
+
+<div>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harry101969&theme=midnight_purple" />
+ </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards>
+    
+ </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards>
+    
+ </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards>
+    
+ </a>
+</div>
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
