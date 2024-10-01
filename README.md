@@ -50,7 +50,7 @@
 
 ###
 <h2>Connect To Me</h2>
-<div align="center"style="display: flex; justify-content: center; gap: 10px;">
+<div align="center"style="display: flex; justify-content: space-between; ">
    <a href="https://x.com/harshagarwal_29" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TwitterX&logo=X&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X (Twitter) logo"  />
   </a>
