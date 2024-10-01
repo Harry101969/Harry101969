@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harry101969&theme=midnight_purple" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harry101969&theme=midnight_purple/0-profile-details.svg" />
  </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards>
     
