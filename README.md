@@ -63,13 +63,12 @@
 </div>
 
 
-###
-
+<div align="center">
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Harry101969/Harry101969/output/snake.svg" alt="Snake animation" />
+</div>
 
 
-###
 
 
 
