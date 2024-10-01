@@ -19,10 +19,10 @@
 </div>
 
 ###
-
+<div aligh="center>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <img align="right" height="150" width="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
+</div>
 ###
 <h2>Tech Stack</h2>
 <div align="center">
