@@ -1,4 +1,4 @@
-<h2 align="center">Hi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> My name is Harsh Agarwal and I'm a full stack developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> , from India</h2>
+<h2 align="center">Hi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> My Name Is Harsh Agarwal And I'm A Full Stack Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> , From India</h2>
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
