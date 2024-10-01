@@ -52,10 +52,10 @@
 <h2>Connect To Me</h2>
 <div align="center">
   <a href="https://x.com/harshagarwal_29" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" width="100" alt="X (Twitter) logo" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" width="100" alt="X (Twitter) logo" style="gap: 10px" />
   </a>
   <a href="https://www.linkedin.com/in/harsh-agarwal-6ba105284" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" width="100" alt="linkedin logo" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" width="100" alt="linkedin logo" style="gap: 10px;" />
   </a>
   <a href="https://github.com/Harry101969" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" width="100" alt="github logo" />
