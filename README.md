@@ -1,5 +1,5 @@
 <h2 align="center">Hi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> My name is Harsh Agarwal and I'm a full stack developer, from India</h2>
-<img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harry101969&theme=midnight_purple" />
@@ -19,7 +19,7 @@
 </div>
 
 ###
-
+<img align="left" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
