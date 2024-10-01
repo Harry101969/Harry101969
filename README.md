@@ -52,7 +52,7 @@
 <h2>Connect To Me</h2>
 <div align="center"style="display: flex; justify-content: center; gap: 10px;">
    <a href="https://x.com/harshagarwal_29" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TwitterX&logo=twitter&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X (Twitter) logo"  />
+    <img src="https://img.shields.io/static/v1?message=TwitterX&logo=X&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X (Twitter) logo"  />
   </a>
   <a href="mailto:harshagrawal2904@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
