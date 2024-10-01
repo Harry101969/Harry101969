@@ -21,7 +21,7 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+<img align="left" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 ###
 <h2>Tech Stack</h2>
 <div align="center">
@@ -48,7 +48,7 @@
 
 
 ###
-
+<h2>Connect To Me</h2>
 <div align="center">
   <a href="mailto:harshagrawal2904@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
