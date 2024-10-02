@@ -8,10 +8,10 @@
  - 👨‍💻 Freelancer
 - ⚡ Fun fact: I can spend my entire day while coding.
   <hr>
-<p>
+<div style="display:flex">
  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400" height="400"/>
 <img src="https://github.com/kumarjeetray/kumarjeetray/blob/main/life_balance.gif" alt="side Image" align="right" width="400" height="400" />
-</p>
+</div>
 
 <br>
 
