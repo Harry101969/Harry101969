@@ -38,7 +38,7 @@
 </div>
 
 <br/>
-<h2>Tech Stack</h2>
+<h2>Languages , Softwares , Tools , Services and Frameworks</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
