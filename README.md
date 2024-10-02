@@ -60,7 +60,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/turborepo-%236B46C1.svg?style=for-the-badge&logo=turborepo&logoColor=white" height="30" alt="turborepo logo" />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/a8ccf725-e6a8-4784-92c7-3afd46a0cb1e" height="30" alt="tailwindcss logo" />
+  <img src="https://github.com/user-attachments/assets/7f78bba4-169a-4989-91dd-b1d7136bf975" height="30" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" />
   <img width="12" />
