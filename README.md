@@ -16,7 +16,7 @@
 <br>
 
 
-<hr>
+
 <div>
 <h1 align="center"> 📊 Statistics: </h1>
 <div align="center">
