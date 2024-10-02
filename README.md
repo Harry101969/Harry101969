@@ -83,6 +83,8 @@
   <img src="https://github.com/user-attachments/assets/7555b1fb-3b69-47a7-8ad0-fd75a30c5f1e" height="30" alt="django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="30" alt="cloudflare logo" />
+   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/cf388985-d014-40a8-9dd1-39aac1928d51" height="30" alt="langchain logo" />
 </div>
 
 
