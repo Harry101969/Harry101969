@@ -113,7 +113,7 @@
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Harry101969/Harry101969/output/snake.svg" alt="Snake animation" />
 </div> -->
-
+<br>
 The snake's eating up my contributions🐍.
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
