@@ -7,7 +7,7 @@
 
 - 🎓 **Third Year IT Engineering student at A. C. Patil College of Engineering**.
 - 🔭 I’m currently working on **Full Stack Development, NextJs and Devops**
-- 🌱 I’m currently learning **Devops- Docker and Turborepo**
+- 🌱 I’m currently learning **Devops - Docker and Turborepo**
 - 👯 I’m looking to collaborate on **Open Source, React, React Native, NextJS and Turborepo**
 - 📫 How to reach me **agarwalh2904@gmail.com**
  - 👨‍💻 Freelancer
