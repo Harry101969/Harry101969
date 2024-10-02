@@ -38,9 +38,10 @@
 </div>
 <br/>
 </div>
-<div align="center>
+ 
+<!---  <div align="center>
   <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-</div>
+</div> --->
 
 <br/>
 <h2>Languages , Softwares , Tools , Services and Frameworks</h2>
