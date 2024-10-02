@@ -32,7 +32,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harry101969&theme=midnight_purple&utcOffset=8" />
   </a>
 </div>
-<br/>
+<br>
 </div>
  
 <!---  <div align="center>
