@@ -109,10 +109,10 @@
 <!-- <img align="center" height="150" width="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /> -->
 
 
-<div align="center">
+<!--<div align="center">
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Harry101969/Harry101969/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 The snake's eating up my contributions🐍.
 <p align="center">
