@@ -13,6 +13,7 @@
 <img src="https://github.com/kumarjeetray/kumarjeetray/blob/main/life_balance.gif" alt="side Image" align="right" width="400" height="400" />
 </p>
 
+<hr>
 
 <h1 align="center"> 📊 Statistics: </h1>
 <div align="center">
