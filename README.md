@@ -5,6 +5,15 @@
 <hr>
 <h2 align="center">Hi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> My Name Is Harsh Agarwal And I'm A Passionate Full Stack Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h2>
 
+- 🎓 **Final Year Computer Engineering student at A. C. Patil College of Engineering**.
+- 🔭 I’m currently working on **Full Stack Development and Devops**
+- 🌱 I’m currently learning **Devops- Docker and Turborepo**
+- 👯 I’m looking to collaborate on **Open Source, React, React Native, NextJS and Turborepo**
+- 📫 How to reach me **agarwalh2904@gmail.com**
+ - 👨‍💻 Freelancer
+- ⚡ Fun fact: I can spend my entire day while coding.
+
+<h1 align="center"> 📊 Statistics: </h1>
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harry101969&theme=midnight_purple" />
