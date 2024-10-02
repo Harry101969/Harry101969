@@ -17,6 +17,7 @@
 
 
 <hr>
+<div>
 <h1 align="center"> 📊 Statistics: </h1>
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -36,7 +37,7 @@
   </a>
 </div>
 <br/>
-
+</div>
 <div align="center>
   <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 </div>
