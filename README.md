@@ -77,6 +77,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/7555b1fb-3b69-47a7-8ad0-fd75a30c5f1e" height="30" alt="django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="30" alt="cloudflare logo" />
 </div>
 
 
