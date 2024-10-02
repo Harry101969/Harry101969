@@ -73,6 +73,10 @@
   <img src="https://github.com/user-attachments/assets/b4d56ff8-1e7d-43fc-9d88-79894b67f845" height="30" alt="AI logo" />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/7371b74f-a846-4344-b8f8-1a2ecf65d318" height="30" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="30" alt="django logo" />
 </div>
 
 
