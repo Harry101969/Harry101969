@@ -64,7 +64,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/recoil/recoil-original.svg" height="30" alt="recoil logo" />
+  <img src="https://github.com/user-attachments/assets/5a612e17-7f97-4d7a-be00-8acd90ee87f4" height="30" alt="recoil logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
   <img width="12" />
