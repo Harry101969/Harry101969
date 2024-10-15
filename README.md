@@ -103,13 +103,7 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   </a>
 </div>
-<!-- <img align="center" height="150" width="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /> -->
 
-
-<!--<div align="center">
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Harry101969/Harry101969/output/snake.svg" alt="Snake animation" />
-</div> -->
 <br>
 The snake's eating up my contributions🐍.
 <p align="center">
