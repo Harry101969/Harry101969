@@ -1,5 +1,7 @@
 <h2 align="center">Hi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> My Name Is Harsh Agarwal And I'm A Passionate Full Stack Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h2>
-
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=1000&pause=500&multiline=true&width=650&height=120&lines=%24whoami;Yo%2C+it's+me;Harsh" alt="Typing SVG" />
+ </a>
 - 🎓 **Third Year IT Engineering student at A. C. Patil College of Engineering**.
 - 🔭 I’m currently working on **Full Stack Development, NextJs and Devops**
 - 🌱 I’m currently learning **Devops - Docker and Turborepo**
