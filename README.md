@@ -26,7 +26,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harry101969&theme=midnight_purple" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harry101969&theme=midnight_purple" />
+    <img  />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harry101969&theme=midnight_purple&utcOffset=8" />
