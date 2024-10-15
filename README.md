@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=1000&pause=500&multiline=true&width=650&height=120&lines=%24whoami;Yo%2C+it's+me;Harsh" alt="Typing SVG" />
   <br>
  </a>
-- 🎓 **Third Year IT Engineering student at A. C. Patil College of Engineering**.
+- 🎓Third Year IT Engineering student at A. C. Patil College of Engineering.
 - 🔭 I’m currently working on **Full Stack Development, NextJs and Devops**
 - 🌱 I’m currently learning **Devops - Docker and Turborepo**
 - 👯 I’m looking to collaborate on **Open Source, MERN, React Native, NextJS and Turborepo Projects**
