@@ -112,7 +112,4 @@ The snake's eating up my contributions🐍.
     alt="example" />
 </p>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Harry101969&label=Profile%20Views&color=1&pretty=false" />
-</a>
-
+[![](https://visitcountpro.netlify.app/api?id=Harry101969&pretty=gittrue)](https://visitcount.itsvg.in)
