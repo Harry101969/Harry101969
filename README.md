@@ -1,6 +1,6 @@
 <h2 align="center">Hi! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" /> My Name Is Harsh Agarwal And I'm A Passionate Full Stack Developer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45" /></h2>
 
-- 🎓**Third Year IT Engineering student at A. C. Patil College of Engineering.**
+- 🎓**Final Year IT Engineering student at the University Of Mumbai.**
 - 🔭 I’m currently working on **Full Stack Development, NextJs and Devops**
 - 🌱 I’m currently learning **Devops - Docker and Turborepo**
 - 👯 I’m looking to collaborate on **Open Source, MERN, React Native, NextJS and Turborepo Projects**
